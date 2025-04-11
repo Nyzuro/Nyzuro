@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Coding Accelerator Program](https://harryjmg.fr/codingaccelerator)<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Javascript and C<br>
+🔭 I’m currently working on [Coding Accelerator Program](https://harryjmg.fr/codingaccelerator)<br>🌱 I’m currently learning React<br>💬 Ask me about Javascript and C<br>
 
 
 ## 🌐 Socials:
