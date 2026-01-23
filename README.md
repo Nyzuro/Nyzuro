@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on [Coding Accelerator Program](https://harryjmg.fr/codingaccelerator)<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-santarossa/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marco.dev2025@gmail.com) 
 
